@@ -1,0 +1,21 @@
+<html>
+<div width="500" height="500">
+<h1 align="center" style = "font-family:georgia,garamond,serif;color:rgb(128, 0, 255);">Instrukcije za upotrebu programa</h1> <br>
+
+
+
+<p align="center" style = "font-family:georgia,garamond,serif;font-size:12px;color:rgb(128, 0, 255);">Program Biblioteka je aplikacija koja olaksava rad u biblioteci.<br><br>
+Sa strane ili u meniju mozete prebaciti sa izdavanja (<b>Izdavanje knjiga</b>) - koje se prvo otvara prilikom logovanja u aplikaciju - na listu knjiga (<b>Knjige</b>) koje biblioteka trenutno 
+poseduje kao i na listu clanova biblioteke (<b>Clanovi</b>).<br><br>
+Izdavanje knjiga - mozete koristiti dugme <b>Izdavanje</b> ili <b>Pretraga</b>.<br> Na samom prozoru <i>Izdavanje knjiga</i> se nalazi i dugme <b>Pronadji</b>, u slucaju da niste 
+uspeli da tu nadjete knjigu. U prozoru selektujete knjigu i clana i kliknete na dugme <b>Izdaj</b>.<br><br>
+Vracanje knjiga - dovoljno je selektovati izdatu knjigu u tabeli i kliknuti na dugme <b>Vracanje</b>.<br><br>
+U prozoru <i>Knjige</i> mozete videti sve knjige koje trenutno biblioteka poseduje. Uz pomoc dugmeta <b>Dodavanje</b> mozete dodati novu knjigu, a u slucaju greske 
+podatak mozete izmeniti u samoj tabeli. Kad u tabeli napravite ispravku potrebno je prvo pritisnuti enter na tastaturi a onda kliknuti dugme ispravka da bi 
+ispravka bila uzeta u obzir.<br><br>
+Na isti nacin u prozoru <i>Clan</i> mozete videti sve clanove biblioteke, dodati novog clana ili ispraviti podatke.<br><br><br>
+
+U slucaju da imate problema sa radom programa pomoc mozete potraziti na ker.tatyana@gmail.com.</p>
+
+</div>
+</html>
